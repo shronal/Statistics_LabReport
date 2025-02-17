@@ -9,21 +9,21 @@ This repository contains the **Statistics SPSS Lab Report** prepared at **Khwopa
 ## 📁 Contents  
 - 📄 **Lab Report (PDF/Word format)**
 
-## Usage
+## 🚀 Usage
 Download or clone this repository:
 git clone https://github.com/shronal/Statistics_LabReport
 Open the report to review the statistical analysis and interpretations.
 
-## Topics Covered
+## 📌 Topics Covered
 Descriptive Statistics (Mean, Median, Mode, Standard Deviation)
 Hypothesis Testing (t-test, ANOVA)
 Correlation & Regression Analysis
 Data Visualization (Graphs & Charts)
 
-## Author
+## 👨‍💻 Author
 🔹 Shronal Duwal
 🔹 Khwopa Engineering College
 
-## License
+## 📜License
 This project is for educational purposes. Feel free to use it as a reference!
 
